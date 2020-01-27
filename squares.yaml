@@ -1,0 +1,56 @@
+openapi: 3.0.0
+info:
+  version: '1.0.0'
+  title: 'Square Numbers API'
+  description: 'This Application Program Interface can provide list square numbers or the square of a specific number'
+paths: 
+  /list:
+    get:
+      description: a list of squares from 1 to n
+      parameters: 
+        - name: n
+          in: query
+          description: the first n numbers in the set of squared positive integers
+          schema: 
+            type: integer
+            minimum: 1
+            maximum: 1000
+            example: 20
+      
+      responses: 
+        100: 
+          description: Success
+          content: 
+            application/json:
+              schema: 
+                type: array
+                items:
+                  properties:
+                    square: 
+                      type: integer
+                      example: 400
+  /A_square:
+    get:
+      description: a list of squares from 1 to n
+      parameters: 
+        - name: n
+          in: query
+          description: the first n numbers in the set of squared positive integers
+          schema: 
+            type: integer
+            minimum: 1
+            maximum: 1
+            example: 20
+      
+      responses: 
+        100: 
+          description: Success
+          content: 
+            application/json:
+              schema: 
+                type: array
+                items:
+                  properties:
+                    square: 
+                      type: integer
+                      example: 400
