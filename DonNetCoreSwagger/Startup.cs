@@ -17,6 +17,7 @@ namespace DonNetCoreSwagger
 
     //On how this API was learned and created https://www.youtube.com/watch?v=kIien--dYJ4
     //On the Lambda expression "=>" https://www.dotnetperls.com/lambda
+    //TODO get other Swagger APIs implemented https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-3.1&tabs=visual-studio
 
     public class Startup
     {
