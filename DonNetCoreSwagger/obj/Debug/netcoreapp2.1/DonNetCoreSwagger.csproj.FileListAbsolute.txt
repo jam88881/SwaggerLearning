@@ -9,3 +9,6 @@ C:\Users\jamarante\Source\Repos\DonNetCoreSwagger\DonNetCoreSwagger\obj\Debug\ne
 C:\Users\jamarante\Source\Repos\DonNetCoreSwagger\DonNetCoreSwagger\obj\Debug\netcoreapp2.1\DonNetCoreSwagger.AssemblyInfoInputs.cache
 C:\Users\jamarante\Source\Repos\DonNetCoreSwagger\DonNetCoreSwagger\obj\Debug\netcoreapp2.1\DonNetCoreSwagger.AssemblyInfo.cs
 C:\Users\jamarante\Source\Repos\DonNetCoreSwagger\DonNetCoreSwagger\obj\Debug\netcoreapp2.1\DonNetCoreSwagger.RazorTargetAssemblyInfo.cache
+C:\Users\jamarante\Source\Repos\DonNetCoreSwagger\DonNetCoreSwagger\bin\Debug\netcoreapp2.1\DonNetCoreSwagger.pdb
+C:\Users\jamarante\Source\Repos\DonNetCoreSwagger\DonNetCoreSwagger\obj\Debug\netcoreapp2.1\DonNetCoreSwagger.dll
+C:\Users\jamarante\Source\Repos\DonNetCoreSwagger\DonNetCoreSwagger\obj\Debug\netcoreapp2.1\DonNetCoreSwagger.pdb
