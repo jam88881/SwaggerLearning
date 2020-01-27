@@ -45,7 +45,7 @@ namespace DonNetCoreSwagger
             app.UseSwagger();
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("swagger/v1/wagger.json", "My API Version 1");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API Version 1");
             });
 
             if (env.IsDevelopment())
