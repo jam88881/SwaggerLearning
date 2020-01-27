@@ -1,0 +1,11 @@
+C:\Users\jamarante\Source\Repos\DonNetCoreSwagger\DonNetCoreSwagger\bin\Debug\netcoreapp2.1\DonNetCoreSwagger.deps.json
+C:\Users\jamarante\Source\Repos\DonNetCoreSwagger\DonNetCoreSwagger\bin\Debug\netcoreapp2.1\DonNetCoreSwagger.runtimeconfig.json
+C:\Users\jamarante\Source\Repos\DonNetCoreSwagger\DonNetCoreSwagger\bin\Debug\netcoreapp2.1\DonNetCoreSwagger.runtimeconfig.dev.json
+C:\Users\jamarante\Source\Repos\DonNetCoreSwagger\DonNetCoreSwagger\bin\Debug\netcoreapp2.1\DonNetCoreSwagger.dll
+C:\Users\jamarante\Source\Repos\DonNetCoreSwagger\DonNetCoreSwagger\obj\Debug\netcoreapp2.1\DonNetCoreSwagger.csprojAssemblyReference.cache
+C:\Users\jamarante\Source\Repos\DonNetCoreSwagger\DonNetCoreSwagger\obj\Debug\netcoreapp2.1\DonNetCoreSwagger.csproj.CoreCompileInputs.cache
+C:\Users\jamarante\Source\Repos\DonNetCoreSwagger\DonNetCoreSwagger\obj\Debug\netcoreapp2.1\DonNetCoreSwagger.RazorAssemblyInfo.cache
+C:\Users\jamarante\Source\Repos\DonNetCoreSwagger\DonNetCoreSwagger\obj\Debug\netcoreapp2.1\DonNetCoreSwagger.RazorAssemblyInfo.cs
+C:\Users\jamarante\Source\Repos\DonNetCoreSwagger\DonNetCoreSwagger\obj\Debug\netcoreapp2.1\DonNetCoreSwagger.AssemblyInfoInputs.cache
+C:\Users\jamarante\Source\Repos\DonNetCoreSwagger\DonNetCoreSwagger\obj\Debug\netcoreapp2.1\DonNetCoreSwagger.AssemblyInfo.cs
+C:\Users\jamarante\Source\Repos\DonNetCoreSwagger\DonNetCoreSwagger\obj\Debug\netcoreapp2.1\DonNetCoreSwagger.RazorTargetAssemblyInfo.cache
