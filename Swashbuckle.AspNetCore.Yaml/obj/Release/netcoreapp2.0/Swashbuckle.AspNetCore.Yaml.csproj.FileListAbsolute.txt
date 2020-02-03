@@ -1,0 +1,8 @@
+C:\Users\Amarante\Source\Repos\Swashbuckle.AspNetCore.Yaml\Swashbuckle.AspNetCore.Yaml\bin\Release\netcoreapp2.0\Swashbuckle.AspNetCore.Yaml.deps.json
+C:\Users\Amarante\Source\Repos\Swashbuckle.AspNetCore.Yaml\Swashbuckle.AspNetCore.Yaml\bin\Release\netcoreapp2.0\Swashbuckle.AspNetCore.Yaml.dll
+C:\Users\Amarante\Source\Repos\Swashbuckle.AspNetCore.Yaml\Swashbuckle.AspNetCore.Yaml\bin\Release\netcoreapp2.0\Swashbuckle.AspNetCore.Yaml.pdb
+C:\Users\Amarante\Source\Repos\Swashbuckle.AspNetCore.Yaml\Swashbuckle.AspNetCore.Yaml\obj\Release\netcoreapp2.0\Swashbuckle.AspNetCore.Yaml.csprojAssemblyReference.cache
+C:\Users\Amarante\Source\Repos\Swashbuckle.AspNetCore.Yaml\Swashbuckle.AspNetCore.Yaml\obj\Release\netcoreapp2.0\Swashbuckle.AspNetCore.Yaml.AssemblyInfoInputs.cache
+C:\Users\Amarante\Source\Repos\Swashbuckle.AspNetCore.Yaml\Swashbuckle.AspNetCore.Yaml\obj\Release\netcoreapp2.0\Swashbuckle.AspNetCore.Yaml.AssemblyInfo.cs
+C:\Users\Amarante\Source\Repos\Swashbuckle.AspNetCore.Yaml\Swashbuckle.AspNetCore.Yaml\obj\Release\netcoreapp2.0\Swashbuckle.AspNetCore.Yaml.dll
+C:\Users\Amarante\Source\Repos\Swashbuckle.AspNetCore.Yaml\Swashbuckle.AspNetCore.Yaml\obj\Release\netcoreapp2.0\Swashbuckle.AspNetCore.Yaml.pdb
