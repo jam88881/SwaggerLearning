@@ -1,0 +1,16 @@
+C:\Users\Amarante\source\repos\SwaggerLearning\DonNetCoreSwagger\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Amarante\source\repos\SwaggerLearning\DonNetCoreSwagger\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Amarante\source\repos\SwaggerLearning\DonNetCoreSwagger\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Amarante\source\repos\SwaggerLearning\DonNetCoreSwagger\bin\Debug\netcoreapp2.1\DotNetCoreSwagger.deps.json
+C:\Users\Amarante\source\repos\SwaggerLearning\DonNetCoreSwagger\bin\Debug\netcoreapp2.1\DotNetCoreSwagger.runtimeconfig.json
+C:\Users\Amarante\source\repos\SwaggerLearning\DonNetCoreSwagger\bin\Debug\netcoreapp2.1\DotNetCoreSwagger.runtimeconfig.dev.json
+C:\Users\Amarante\source\repos\SwaggerLearning\DonNetCoreSwagger\bin\Debug\netcoreapp2.1\DotNetCoreSwagger.dll
+C:\Users\Amarante\source\repos\SwaggerLearning\DonNetCoreSwagger\bin\Debug\netcoreapp2.1\DotNetCoreSwagger.pdb
+C:\Users\Amarante\source\repos\SwaggerLearning\DonNetCoreSwagger\obj\Debug\netcoreapp2.1\DotNetCoreSwagger.csprojAssemblyReference.cache
+C:\Users\Amarante\source\repos\SwaggerLearning\DonNetCoreSwagger\obj\Debug\netcoreapp2.1\DotNetCoreSwagger.RazorAssemblyInfo.cache
+C:\Users\Amarante\source\repos\SwaggerLearning\DonNetCoreSwagger\obj\Debug\netcoreapp2.1\DotNetCoreSwagger.RazorAssemblyInfo.cs
+C:\Users\Amarante\source\repos\SwaggerLearning\DonNetCoreSwagger\obj\Debug\netcoreapp2.1\DotNetCoreSwagger.AssemblyInfoInputs.cache
+C:\Users\Amarante\source\repos\SwaggerLearning\DonNetCoreSwagger\obj\Debug\netcoreapp2.1\DotNetCoreSwagger.AssemblyInfo.cs
+C:\Users\Amarante\source\repos\SwaggerLearning\DonNetCoreSwagger\obj\Debug\netcoreapp2.1\DotNetCoreSwagger.RazorTargetAssemblyInfo.cache
+C:\Users\Amarante\source\repos\SwaggerLearning\DonNetCoreSwagger\obj\Debug\netcoreapp2.1\DotNetCoreSwagger.dll
+C:\Users\Amarante\source\repos\SwaggerLearning\DonNetCoreSwagger\obj\Debug\netcoreapp2.1\DotNetCoreSwagger.pdb

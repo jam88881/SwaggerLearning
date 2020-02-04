@@ -15,10 +15,8 @@ using Microsoft.OpenApi.Models;
 namespace DonNetCoreSwagger
 {
 
-    //On how this API was learned and created https://www.youtube.com/watch?v=kIien--dYJ4
+    //On how this API was learned and created https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-3.1&tabs=visual-studio
     //On the Lambda expression "=>" https://www.dotnetperls.com/lambda
-    //TODO get other Swagger APIs implemented https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-3.1&tabs=visual-studio
-    //stlo
 
     public class Startup
     {
@@ -36,7 +34,7 @@ namespace DonNetCoreSwagger
 
             services.AddSwaggerGen(c => 
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title="My API", Version="v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title= "OpenAPI Proof of Concept", Version="v1" });
             });
 
         }
@@ -47,7 +45,7 @@ namespace DonNetCoreSwagger
             app.UseSwagger();
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API Version 1");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Sparkfish - OpenAPI Proof of Concept");
             });
 
             if (env.IsDevelopment())

@@ -6,3 +6,11 @@ C:\Users\Amarante\Source\Repos\Swashbuckle.AspNetCore.Yaml\Swashbuckle.AspNetCor
 C:\Users\Amarante\Source\Repos\Swashbuckle.AspNetCore.Yaml\Swashbuckle.AspNetCore.Yaml\obj\Debug\netcoreapp2.0\Swashbuckle.AspNetCore.Yaml.dll
 C:\Users\Amarante\Source\Repos\Swashbuckle.AspNetCore.Yaml\Swashbuckle.AspNetCore.Yaml\obj\Debug\netcoreapp2.0\Swashbuckle.AspNetCore.Yaml.pdb
 C:\Users\Amarante\Source\Repos\Swashbuckle.AspNetCore.Yaml\Swashbuckle.AspNetCore.Yaml\obj\Debug\netcoreapp2.0\Swashbuckle.AspNetCore.Yaml.csprojAssemblyReference.cache
+C:\Users\Amarante\source\repos\SwaggerLearning\Swashbuckle.AspNetCore.Yaml\bin\Debug\netcoreapp2.0\Swashbuckle.AspNetCore.Yaml.deps.json
+C:\Users\Amarante\source\repos\SwaggerLearning\Swashbuckle.AspNetCore.Yaml\bin\Debug\netcoreapp2.0\Swashbuckle.AspNetCore.Yaml.dll
+C:\Users\Amarante\source\repos\SwaggerLearning\Swashbuckle.AspNetCore.Yaml\bin\Debug\netcoreapp2.0\Swashbuckle.AspNetCore.Yaml.pdb
+C:\Users\Amarante\source\repos\SwaggerLearning\Swashbuckle.AspNetCore.Yaml\obj\Debug\netcoreapp2.0\Swashbuckle.AspNetCore.Yaml.csprojAssemblyReference.cache
+C:\Users\Amarante\source\repos\SwaggerLearning\Swashbuckle.AspNetCore.Yaml\obj\Debug\netcoreapp2.0\Swashbuckle.AspNetCore.Yaml.AssemblyInfoInputs.cache
+C:\Users\Amarante\source\repos\SwaggerLearning\Swashbuckle.AspNetCore.Yaml\obj\Debug\netcoreapp2.0\Swashbuckle.AspNetCore.Yaml.AssemblyInfo.cs
+C:\Users\Amarante\source\repos\SwaggerLearning\Swashbuckle.AspNetCore.Yaml\obj\Debug\netcoreapp2.0\Swashbuckle.AspNetCore.Yaml.dll
+C:\Users\Amarante\source\repos\SwaggerLearning\Swashbuckle.AspNetCore.Yaml\obj\Debug\netcoreapp2.0\Swashbuckle.AspNetCore.Yaml.pdb
