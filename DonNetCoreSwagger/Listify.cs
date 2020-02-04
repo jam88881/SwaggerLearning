@@ -4,7 +4,7 @@ using System.Collections;
 using System.Collections.Generic;
 
 
-namespace DonNetCoreSwagger
+namespace DotNetCoreSwagger
 {
     //Listify implements the IList interface to get an IEnmunerable (an unstructured array) to act like a List (a well defined, structured array)
     public class Listify : IList<int>
