@@ -9,11 +9,11 @@ namespace DotNetCoreSwagger.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class OpenAPISwashbuckle : ControllerBase
+    public class OpenAPIListify : ControllerBase
     {
         //the class Listify was created as part of a technical evaluation for a job application.
         //it is presented here through the Swashbuckle UI.
-        // GET api/OpenAPISwashbuckle
+        // GET api/OpenAPIListify
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
@@ -28,9 +28,9 @@ namespace DotNetCoreSwagger.Controllers
             return oReturnString;
         }
 
-        // GET api/OpenAPISwashbuckle/start/length
+        // GET api/OpenAPIListify/start/length
         [HttpGet]
-        [Route("api/OpenAPISwashbuckle/{start}/{length}")]
+        [Route("api/OpenAPIListify/{start}/{length}")]
         public ActionResult<IEnumerable<string>> Get(int start, int length)
         {
             string[] oReturnString = new string[length];
@@ -44,9 +44,9 @@ namespace DotNetCoreSwagger.Controllers
             return oReturnString;
         }
 
-        // GET api/OpenAPISwashbuckle/start/length/id
+        // GET api/OpenAPIListify/start/length/id
         [HttpGet]
-        [Route("api/OpenAPISwashbuckle/{start}/{length}/{id}")]
+        [Route("api/OpenAPIListify/{start}/{length}/{id}")]
         public string Get(int start, int length, int id)
         {
             string[] oReturnString = new string[length];
@@ -55,19 +55,19 @@ namespace DotNetCoreSwagger.Controllers
 
         //The below POST, PUT, and DELETE calls have little value for the purpose of this demo.
         //They have been left as comments for use in a future project
-        // POST api/OpenAPISwashbuckle
+        // POST api/OpenAPIListify
         //[HttpPost]
         //public void Post([FromBody] string value)
         //{
         //}
 
-        // PUT api/OpenAPISwashbuckle/5
+        // PUT api/OpenAPIListify/5
         //[HttpPut("{id}")]
         //public void Put(int id, [FromBody] string value)
         //{
         //}
 
-        // DELETE api/OpenAPISwashbuckle/5
+        // DELETE api/OpenAPIListify/5
         //[HttpDelete("{id}")]
         //public void Delete(int id)
         //{
